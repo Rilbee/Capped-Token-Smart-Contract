@@ -1,0 +1,11 @@
+[project]
+name = "token"
+authors = []
+description = ""
+telemetry = true
+requirements = []
+analysis = ["check_checker"]
+costs_version = 2
+[contracts.CAP]
+path = "contracts/CAP.clar"
+depends_on = []
